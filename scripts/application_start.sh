@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /hom/ubuntu/expressapp411
-node index.js > /dev/nulll 2>&1 &
+cd /home/ubuntu/expressapp411
+node index.js > /dev/null 2>&1 &
