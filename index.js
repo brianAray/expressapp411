@@ -8,6 +8,7 @@ const version = "1";
 app.get('/', (req, res) => {
     res.send(`<html>
                 <body>
+                    <h2>I have been changed</h2>
                     <div style="position: fixed; top:50%;left:50%;transform:translate(-50%, -50%)">
                         <img src="https://picsum.photos/400/400?random=1">
                     </div>
